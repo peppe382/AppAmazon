@@ -1,0 +1,17 @@
+/Users/peppe382/Projects/AppAmazon/AppAmazon/bin/Debug/netstandard2.0/AppAmazon.deps.json
+/Users/peppe382/Projects/AppAmazon/AppAmazon/bin/Debug/netstandard2.0/AppAmazon.dll
+/Users/peppe382/Projects/AppAmazon/AppAmazon/bin/Debug/netstandard2.0/ref/AppAmazon.dll
+/Users/peppe382/Projects/AppAmazon/AppAmazon/bin/Debug/netstandard2.0/AppAmazon.pdb
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.csprojAssemblyReference.cache
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/LoginPage.xaml.g.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/MainShell.xaml.g.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/ShowProduct.xaml.g.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.AssemblyInfoInputs.cache
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.AssemblyInfo.cs
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.csproj.CoreCompileInputs.cache
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.dll
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/ref/AppAmazon.dll
+/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/Debug/netstandard2.0/AppAmazon.pdb

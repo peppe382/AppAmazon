@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:AppAmazon"
+             FlyoutBehavior="Disabled"
+             x:Class="AppAmazon.MainShell">
+
+    <ShellItem>
+
+        <ShellContent>
+           <pages:LoginPage /> 
+        </ShellContent>
+
+        <ShellContent Route="Home">
+           <pages:MainPage /> 
+        </ShellContent>
+
+        <ShellContent Route="Products">
+           <pages:MainPage /> 
+        </ShellContent>
+    </ShellItem>
+
+
+
+</Shell>

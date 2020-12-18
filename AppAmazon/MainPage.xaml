@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAmazon.MainPage">
+
+
+<StackLayout>
+<TableView Intent="Form" >
+    <TableRoot>
+        <TableSection Title="Create Product" TextColor="Black">
+
+            <EntryCell x:Name="p_name" Label="Name" Placeholder="Name" />
+            <EntryCell x:Name="p_barcode" Label="Barcode" Placeholder="Barcode" />
+            <EntryCell x:Name="p_description" Label="Description" Placeholder="Description" />
+            
+        </TableSection>
+    </TableRoot>
+</TableView>
+
+<Label x:Name="labelToken" Text="provadddddddd" />
+<TableView Intent="Data">
+    <TableRoot>
+            <TableSection Title="New product info">
+
+            <EntryCell x:Name="pr_id" Label="Id" Text=""/>
+            <EntryCell x:Name="pr_name" Label="Name" Text=""/>
+            <EntryCell x:Name="pr_barcode" Label="Barcode" Text=""/>
+            <EntryCell x:Name="pr_description" Label="Description" Text=""/>
+            <EntryCell x:Name="pr_created" Label="Created At" Text=""/>
+
+        </TableSection>
+    </TableRoot>
+</TableView>
+           <Button Text="Invia" Clicked="SendProduct"/>
+           <Button Text="Lista Prodotti" Clicked="ShowProductButton"/>
+
+</StackLayout>
+</ContentPage>
+
+
