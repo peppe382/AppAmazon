@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj": {}
+    "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj": {}
   },
   "projects": {
-    "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj": {
+    "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj",
+        "projectUniqueName": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj",
         "projectName": "AppAmazon",
-        "projectPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj",
+        "projectPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj",
         "packagesPath": "/Users/peppe382/.nuget/packages/",
-        "outputPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon/obj/",
+        "outputPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/peppe382/.config/NuGet/NuGet.Config"
@@ -75,7 +75,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

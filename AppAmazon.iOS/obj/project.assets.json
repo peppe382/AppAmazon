@@ -1501,11 +1501,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/peppe382/Projects/AppAmazon/AppAmazon.iOS/AppAmazon.iOS.csproj",
+      "projectUniqueName": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.iOS/AppAmazon.iOS.csproj",
       "projectName": "AppAmazon.iOS",
-      "projectPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon.iOS/AppAmazon.iOS.csproj",
+      "projectPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.iOS/AppAmazon.iOS.csproj",
       "packagesPath": "/Users/peppe382/.nuget/packages/",
-      "outputPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon.iOS/obj/",
+      "outputPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1520,8 +1520,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj": {
-              "projectPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj"
+            "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj": {
+              "projectPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NY1wMkbusLerJYL7+SvPLhglctjEM8D05O19yNhtY0OUxYQy6iwr/83Yim1HkBoeSqqrTUq35w+NKVHiJuORRw==",
+  "dgSpecHash": "8O99gYIuTrHm+9RUTbkqFHBxxKZhEYrO2446P+XkYw/fE6b5HBWkJgG7hDaJOLb/F8lTPx+YNOk//RtTVgl2+g==",
   "success": true,
-  "projectFilePath": "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj",
+  "projectFilePath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj",
   "expectedPackageFiles": [
     "/Users/peppe382/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "/Users/peppe382/.nuget/packages/microsoft.net.http.headers/2.2.8/microsoft.net.http.headers.2.2.8.nupkg.sha512",

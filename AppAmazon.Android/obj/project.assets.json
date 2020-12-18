@@ -2210,11 +2210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/peppe382/Projects/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
+      "projectUniqueName": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
       "projectName": "AppAmazon.Android",
-      "projectPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
+      "projectPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
       "packagesPath": "/Users/peppe382/.nuget/packages/",
-      "outputPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon.Android/obj/",
+      "outputPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2229,8 +2229,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj": {
-              "projectPath": "/Users/peppe382/Projects/AppAmazon/AppAmazon/AppAmazon.csproj"
+            "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj": {
+              "projectPath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon/AppAmazon.csproj"
             }
           }
         }

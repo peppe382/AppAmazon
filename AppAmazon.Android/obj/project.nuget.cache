@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hr0Se0R/DFSuoAawxxOL9WANR5IpSvHb6VF8C9WP5PGH76AnHtawd8KB/2N6uCu2KlTReiyJOEgcs3RnZ2luvA==",
+  "dgSpecHash": "kpGf/y8c5Sf5CX3h4RuzpPFOzy1QUYLdSPVAkx3OqWG4Nqqjo4QVVR88/RZkQtd+6cChLgEHF9il+TFFwmxIMw==",
   "success": true,
-  "projectFilePath": "/Users/peppe382/Projects/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
+  "projectFilePath": "/Users/peppe382/Desktop/APL/ProgettoACA/AppAmazon/AppAmazon.Android/AppAmazon.Android.csproj",
   "expectedPackageFiles": [
     "/Users/peppe382/.nuget/packages/microsoft.extensions.primitives/2.2.0/microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "/Users/peppe382/.nuget/packages/microsoft.net.http.headers/2.2.8/microsoft.net.http.headers.2.2.8.nupkg.sha512",
